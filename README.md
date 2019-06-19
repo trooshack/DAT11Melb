@@ -10,9 +10,6 @@
 1. [Projects](#projects)
 1. [Tech Requirements](#tech)
 1. [Classroom Tools](#slack)
-1. [Student Expectations](#expectations)
-1. [Office Hours](#hours)
-1. [Student Feedback](#feedback)
 
 ---
 
